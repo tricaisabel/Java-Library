@@ -1,0 +1,15 @@
+Cota-0001
+Cel mai iubit dintre pamanteni
+Marin Preda
+1980
+8
+Cota-0003
+ActiveMQ in Action
+Bruce Snyder
+2016
+6
+Cota-0007
+Un veac de singuratate
+Gabriel Garcia Marquez
+1985
+4
